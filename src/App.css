@@ -19,6 +19,10 @@ form {
     justify-content: center;
 }
 
+.github-repo {
+    color: #666;
+}
+
 .search-engine {
     margin-bottom: 100px;
 }

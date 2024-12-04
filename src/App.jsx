@@ -73,6 +73,7 @@ function App() {
     <div className='page'>
       <header className='search-engine'>
         <h1>Buscador de Películas</h1>
+        <a className='github-repo' href="https://github.com/cris-sh/movie-search-engine">View on GitHub</a>
         <form className='form' onSubmit={handleSubmit}>
           <input
             value={search}
