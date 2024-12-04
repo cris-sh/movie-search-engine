@@ -5,7 +5,7 @@ export const searchMovies = async ({ search }) => {
   try {
     // Hacemos la peticion a la API de OMDB
     const response = await fetch(
-      `http://www.omdbapi.com/?apikey=f780c30f&s=${search}`
+      `https://www.omdbapi.com/?apikey=f780c30f&s=${search}`
     );
     const json = await response.json();
 
