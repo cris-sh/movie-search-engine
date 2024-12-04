@@ -4,7 +4,6 @@ Crea una aplicación paara buscar películas
 
 API a usar:
 - https://www.omdbapi.com/
-- http://www.omdbapi.com/?apikey=UNDEFINED&s=Avengers
 
 Requerimientos:
 - ✅ Necesita mostrar un input para buscar la película y un botón para buscar.
